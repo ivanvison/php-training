@@ -7,7 +7,7 @@
         <h1><?php echo 'Type Casting'; ?></h1>
         
         <?php 
-            //Type Casting is the process of converting a value from one data type to another
+            // Type Casting is the process of converting a value from one data type to another
             /*
                 (bool) $someVariable; //converts to boolean
                 (int) $someVariable; //converts to integer
