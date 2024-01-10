@@ -4,16 +4,19 @@
         <title>PHP Test</title>
     </head>
     <body>
-        <?php echo '<p>Hello World!!</p>'; ?>
-        <?php echo '<p>PHP is working</p>'; ?>
+        <h1><?php echo 'Hello World!!'; ?></h1>
         
-        <form action="index.php" method="post">
-            <input type="text" name="num1" placeholder="Number 1">
-            <input type="text" name="num2" placeholder="Number 2">
-            <input type="submit">
-        </form>
-        Answer: <?php echo $_POST["num1"] + $_POST["num2"] ?>
+        <?php 
+            //This is a single-line comment
+            # This is also a single-line comment
+            "<p>Adding a comment in PHP</p>";
+            /*
+            This is a multi-line comment block
+            that spans over
+            */
+        ?>
 
-
+        <hr>
+        <center><p>Ivan Vison</p></center>
     </body>
 </html>
