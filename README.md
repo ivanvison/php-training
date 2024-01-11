@@ -27,10 +27,12 @@ First step was to setup a local environment to run PHP. Used WSL2, installed PHP
 
 ## Notes from the training per section
 
-### Section 1: Introduction
+### Section 1/2: Introduction
 - [List of keywords](https://www.php.net/manual/en/reserved.keywords.php)
 - [Operators](https://www.php.net/manual/en/language.operators.php)
 - [Functions](https://www.php.net/manual/en/indexes.functions.php)
 - [Arithmetic Operators](https://www.php.net/manual/en/language.operators.arithmetic.php)
 - [Floating-point Guide](https://floating-point-gui.de/basic/)
 - [Comparison Operators](https://www.php.net/manual/en/language.operators.comparison.php)
+- [Operators precedence](https://www.php.net/manual/en/language.operators.precedence.php)
+- [Constants](https://www.php.net/manual/en/reserved.constants.php)

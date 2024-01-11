@@ -64,6 +64,22 @@
         ?>
 
         <hr>
+
+        <h1><?php echo 'Logical Operators'; ?></h1>
+        
+        <?php 
+            $age = 29;
+            $data = $age > 18 && $age < 65;
+            @var_dump($data);
+            echo '<br>';
+
+            $permission = "admin";
+            $data = $permission == "admin" || $permission == "moderator";
+            @var_dump($data);
+            echo '<br>';
+        ?>
+
+        <hr>
         <center><p>Ivan Vison</p></center>
     </body>
 </html>
