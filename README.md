@@ -31,3 +31,6 @@ First step was to setup a local environment to run PHP. Used WSL2, installed PHP
 - [List of keywords](https://www.php.net/manual/en/reserved.keywords.php)
 - [Operators](https://www.php.net/manual/en/language.operators.php)
 - [Functions](https://www.php.net/manual/en/indexes.functions.php)
+- [Arithmetic Operators](https://www.php.net/manual/en/language.operators.arithmetic.php)
+- [Floating-point Guide](https://floating-point-gui.de/basic/)
+- [Comparison Operators](https://www.php.net/manual/en/language.operators.comparison.php)
