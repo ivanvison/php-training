@@ -36,3 +36,6 @@ First step was to setup a local environment to run PHP. Used WSL2, installed PHP
 - [Comparison Operators](https://www.php.net/manual/en/language.operators.comparison.php)
 - [Operators precedence](https://www.php.net/manual/en/language.operators.precedence.php)
 - [Constants](https://www.php.net/manual/en/reserved.constants.php)
+
+### Section 3: Logic
+- [Control Structure](https://www.php.net/manual/en/language.control-structures.php)
