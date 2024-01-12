@@ -1,5 +1,9 @@
 <?php 
-    function getStatus ($paymentStatus, $showMessage) {
+    // Default values can be set in the parameters, $ShowMessage = true
+    // Type hinting can be used to specify the data type of the parameter, int $paymentStatus
+    // mixed can be used to specify multiple data types, mixed $paymentStatus
+    // strict_types can be used to specify the data type of the parameter, strict_types=1 ===> declare(strict_types=1)
+    function getStatus (int|float $paymentStatus, bool $showMessage) {
 
         $result = match($paymentStatus) {
             1 => 'Success',
