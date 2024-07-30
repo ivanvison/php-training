@@ -14,16 +14,16 @@ First step was to setup a local environment to run PHP. Used WSL2, installed PHP
 - Section 8: OOP
 - Section 9: OOP Challenges
 - Section 10: Master Projects
-- - - Framwork Foundation
-- - - Routing
-- - - Template Engines
-- - - Containers and Dependency Injection
-- - - Form Validation
-- - - MySQL
-- - - User Registration and Authentication
-- - - CRUD Transactions
-- - - Handling File Uploads
-- - - Deployment
+- - Framework Foundation
+- - Routing
+- - Template Engines
+- - Containers and Dependency Injection
+- - Form Validation
+- - MySQL
+- - User Registration and Authentication
+- - CRUD Transactions
+- - Handling File Uploads
+- - Deployment
 
 ## Notes from the training per section
 
